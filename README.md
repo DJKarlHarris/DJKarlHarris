@@ -1,3 +1,5 @@
+Hi,I’m a game developer who tries to contribute to the game industry
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=djkarlharris&layout=compact&theme=buefy&hide_border=true)
 <!--
 **DJKarlHarris/DJKarlHarris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
